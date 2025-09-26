@@ -21,4 +21,4 @@ El mapa es otro proyecto cual recuperamos un mapa de Jáen para mostrarlo al pub
 #Boceto:
 La clase mostrata sus propios modelos de como haremos la estructura para ponerlo en común escogerlo, asi poder mostrarlo publicamente con una estructura simple, barata y estable:
 
-![boceto del mapa](imagnes/bocetoeluno.jpg) ![boceto del mapa](imagenes/bocetoeldos.jpg)
+![boceto elmapa](imagenes/bocetoeluno.jpg) ![boceto del mapa](imagenes/bocetoeldos.jpg)
