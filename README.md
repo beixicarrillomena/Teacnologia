@@ -13,12 +13,12 @@ Esta en un estado como repito dañando cual se debe de reformar claramente, por 
 
 se debe de confimar los materiales y también se debe organizar el grupo y en que boceto nos basaremos para tener un resultado final.
 
-#Mapa:
+# Mapa:
 El mapa es otro proyecto cual recuperamos un mapa de Jáen para mostrarlo al publico y exponer un trabajo del anterior año construyendo su estructura y diseñando su modelos:
 
 ![imagenes del mapa](imagenes/mapa_1.jpg) ![imagenes del mapa](imagenes/mapa_0.jpg)
 
-#Boceto:
+# Boceto:
 La clase mostrata sus propios modelos de como haremos la estructura para ponerlo en común escogerlo, asi poder mostrarlo publicamente con una estructura simple, barata y estable:
 
 ![boceto elmapa](imagenes/bocetoeluno.jpg) ![boceto del mapa](imagenes/bocetoeldos.jpg)
