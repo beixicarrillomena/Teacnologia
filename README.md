@@ -9,7 +9,7 @@ una imágenes de su estado actual:
 # Boceto:
 Esta en un estado como repito dañando cual se debe de reformar claramente, por eso diseñe este boceto de como YO lo reformaria como un plastico nuevo, un suelo más equilivadro y nuevos apoyos para hacer la estructura más estable para que resulte en como aparte que sea más estable y esteticamente mejor:
 
-![boceto del invernadero](imagenes/bocetoinvernader.jpg)
+![boceto del invernadero](imagenes/bocetoinvernader1.jpg)
 
 se debe de confimar los materiales y también se debe organizar el grupo y en que boceto nos basaremos para tener un resultado final.
 
