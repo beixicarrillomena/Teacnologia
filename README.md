@@ -24,8 +24,15 @@ La clase mostrata sus propios modelos de como haremos la estructura para ponerlo
 ![boceto elmapa](imagenes/bocetoeluno.jpg) ![boceto del mapa](imagenes/bocetoeldos.jpg)
 
 # Diseño 3D:
-Aqui diseñe en 3D de como quiero que sea la mesa en el mapa y como me gustaria el diseño
+Aqui diseñe en 3D de como quiero que sea la mesa en el mapa y como me gustaria el diseño.
 
 ![imagenes de la mesa 3D](imagenes/3dmesa.png)
 
+
+# Lista de materiales
+
+1- Madera:cual se usara reciclada del instituto
+2- soportes: también reciclada del instituto
+3- metagrilato: 17€ el folio A4 por tamaño
+4- plastico de invernadero: 3m x 4m 20€
 
