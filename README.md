@@ -29,12 +29,18 @@ Aqui diseñe en 3D de como quiero que sea la mesa en el mapa y como me gustaria 
 ![imagenes de la mesa 3D](imagenes/3dmesa.png)  ![imagenes de la mesa 3D](imagenes/3datras.png)
 
 
-# Lista de materiales
+# Lista de materiales del mapa
 
 1. Madera:cual se usara reciclada del instituto
 2. soportes: también reciclada del instituto
-3. metagrilato: 17€ el folio A4 por tamaño
+3. metacrilato: 17€ el folio A4 por tamaño
 4. plastico de invernadero: 4m x 12,5m 0,85€
 5. corcho para suelo del invernadero: 300mm x 300mm x 4 mm paquete de 9 = 22,79€
-6. dividir para invernadero y 
-   
+
+# Lista de materiales del invernadero
+
+1. Madera: reciclada
+2. soportes: reciclada
+3. plastico de invernadero: 4m x 12,5m 0,85€
+4.  corcho para suelo del invernadero: 300mm x 300mm x 4 mm paquete de 9 = 22,79€
+5.  ![corcho suelo](imagenes/corchosuelo.jpg) 
