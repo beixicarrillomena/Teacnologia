@@ -35,5 +35,5 @@ Aqui diseñe en 3D de como quiero que sea la mesa en el mapa y como me gustaria 
 2. soportes: también reciclada del instituto
 3. metagrilato: 17€ el folio A4 por tamaño
 4. plastico de invernadero: 3m x 4m 20€
-5. corcho para suelo del invernadero: 300mm x 300mm x 4 mm paquete de 9 22,79€
+5. corcho para suelo del invernadero: 300mm x 300mm x 4 mm paquete de 9 = 22,79€
    
