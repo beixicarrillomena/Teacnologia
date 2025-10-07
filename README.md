@@ -26,6 +26,6 @@ La clase mostrata sus propios modelos de como haremos la estructura para ponerlo
 # Diseño 3D:
 Aqui diseñe en 3D de como quiero que sea la mesa en el mapa y como me gustaria el diseño
 
-![imagenes de la mesa 3D](imagenes/3dmesa.jpg)
+![imagenes de la mesa 3D](imagenes/3dmesa.png)
 
 
