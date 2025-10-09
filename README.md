@@ -27,7 +27,7 @@ La clase mostrata sus propios modelos de como haremos la estructura para ponerlo
 Aqui diseñe en 3D de como quiero que sea la mesa en el mapa y como me gustaria el diseño.
 
 <img width="756" height="501" alt="image" src="https://github.com/user-attachments/assets/61c20c8e-d766-4019-a436-a10b30dd3f1c" />
-  ![imagenes de la mesa 3D](imagenes/3datras.png)
+
 
 # Diaeño 3D invernadero:
 
