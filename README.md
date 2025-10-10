@@ -18,7 +18,9 @@ El mapa es otro proyecto en el que recuperamos un mapa de Jaén para mostrarlo a
 ![imagenes del mapa](imagenes/mapa_1.jpg) ![imagenes del mapa](imagenes/mapa_0.jpg)
 
 # Boceto:
-La clase mostrará sus propios modelos de cómo haremos la estructura, para ponerlos en común y escoger uno. Así podremos presentarlo públicamente con una estructura simple, económica y estable:
+La clase mostrará sus propios modelos de cómo haremos la estructura, para ponerlos en común y escoger uno. Así podremos presentarlo públicamente con una estructura simple, económica y estable.
+
+Yo propongo que tenga una estructura de apoyo más triangular y reforzada, y unas tablas que también refuercen ese mismo apoyo, para que quede estéticamente más bonito y asegurado, de modo que nadie intente quitar dicho apoyo.
 
 ![boceto elmapa](imagenes/bocetoeluno.jpg) ![boceto del mapa](imagenes/bocetoeldos.jpg)
 
