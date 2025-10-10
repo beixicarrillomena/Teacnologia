@@ -54,10 +54,10 @@ Aqui el diseño 3D del invernadero:
   ![corcho suelo](imagenes/corchosuelo.jpg)
 
 
-#Planificacion del mapa:
+# Planificacion del mapa:
 Actualmente, primero se deben reunir los materiales y la mano de obra, los cuales deben organizarse para construir la estructura donde estará el mapa. Luego, se comenzarán a juntar las piezas de la estructura, como cortar la madera para las patas y los apoyos, para después ensamblarlas con tornillos y asegurarse de la estabilidad de la estructura. Finalmente, se expondrá públicamente.
 
-#Planificacin del invernadero:
+# Planificacin del invernadero:
 
 Primero, revisar el invernadero para identificar qué materiales son reciclables; después, reunir la mano de obra y los materiales necesarios para reconstruirlo. Finalmente, cuando esté renovado, volver a usarlo con un fin académico.
 
