@@ -47,4 +47,4 @@ Aqui el diseño 3D del invernadero
 2. soportes: reciclada
 3. plastico de invernadero: 4m x 12,5m 0,85€
 4.  corcho para suelo del invernadero: 300mm x 300mm x 4 mm paquete de 9 = 22,79€
-5.  ![corcho suelo](imagenes/corchosuelo.jpg) 
+  ![corcho suelo](imagenes/corchosuelo.jpg) 
