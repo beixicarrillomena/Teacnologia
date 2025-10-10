@@ -1,5 +1,6 @@
 # Tecnología 25-26 Adrían Carrillo Berrio 
-Invernadero: El estado del invernadero es deteriorado, con el plástico muy fácil de romper y estructuras dañadas, como el suelo. A continuación, mostraré algunas imágenes de su estado actual:
+# Invernadero:
+El estado del invernadero es deteriorado, con el plástico muy fácil de romper y estructuras dañadas, como el suelo. A continuación, mostraré algunas imágenes de su estado actual:
 
 ![imagenes del invernadero](imagenes/invernadero.jpg)  ![imagenes del invernadero](imagenes/invernadero_1.jpg)
 
@@ -30,7 +31,7 @@ Aquí diseñé en 3D cómo quiero que sea la mesa del mapa y cómo me gustaría 
 <img width="756" height="501" alt="image" src="https://github.com/user-attachments/assets/61c20c8e-d766-4019-a436-a10b30dd3f1c" />
 
 
-# Diaeño 3D invernadero:
+# Diseño 3D invernadero:
 
 Aqui el diseño 3D del invernadero:
 
@@ -56,10 +57,10 @@ Aqui el diseño 3D del invernadero:
   ![corcho suelo](imagenes/corchosuelo.jpg)
 
 
-# Planificacion del mapa:
+# Planificación del mapa:
 Actualmente, primero se deben reunir los materiales y la mano de obra, los cuales deben organizarse para construir la estructura donde estará el mapa. Luego, se comenzarán a juntar las piezas de la estructura, como cortar la madera para las patas y los apoyos, para después ensamblarlas con tornillos y asegurarse de la estabilidad de la estructura. Finalmente, se expondrá públicamente.
 
-# Planificacin del invernadero:
+# Planificación del invernadero:
 
 Primero, revisar el invernadero para identificar qué materiales son reciclables; después, reunir la mano de obra y los materiales necesarios para reconstruirlo. Finalmente, cuando esté renovado, volver a usarlo con un fin académico.
 
