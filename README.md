@@ -33,6 +33,9 @@ Aqui diseñe en 3D de como quiero que sea la mesa en el mapa y como me gustaria 
 
 Aqui el diseño 3D del invernadero
 
+<img width="535" height="227" alt="image" src="https://github.com/user-attachments/assets/ec44f594-3c0c-4ac8-b4d4-2fe3d72093ab" />
+
+
 # Lista de materiales del mapa
 
 1. Madera:cual se usara reciclada del instituto
