@@ -63,4 +63,4 @@ Actualmente, primero se deben reunir los materiales y la mano de obra, los cuale
 
 Primero, revisar el invernadero para identificar qué materiales son reciclables; después, reunir la mano de obra y los materiales necesarios para reconstruirlo. Finalmente, cuando esté renovado, volver a usarlo con un fin académico.
 
-# Este texto fue corregido por la aplicacion ChatGPT.
+"Este texto fue corregido por la aplicacion ChatGPT"
