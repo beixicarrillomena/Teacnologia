@@ -1,6 +1,6 @@
 # Tecnología 25-26 Adrían Carrillo Berrio 
 # Invernadero:
-El estado del invernadero es deteriorado, con el plástico muy fácil de romper y estructuras dañadas, como el suelo. A continuación, mostraré algunas imágenes de su estado actual:
+El estado del invernadero es deteriorado, con el plástico muy fácil de romper, el suelo esta dañado, puerta y ventana en estado deteriorado, pistones rotos y estructuras dañadas en resumen. A continuación, mostraré algunas imágenes de su estado actual:
 
 ![imagenes del invernadero](imagenes/invernadero.jpg)  ![imagenes del invernadero](imagenes/invernadero_1.jpg)
 
@@ -21,12 +21,13 @@ Aqui el diseño 3D del invernadero:
 
 ## Lista de materiales del invernadero
 
-1. Madera: reciclada
-2. soportes: reciclada
-3. plastico de invernadero: 4m x 12,5m 0,85€
-4. Tornillos
-5.  corcho para suelo del invernadero: 300mm x 300mm x 4 mm paquete de 9 = 22,79€
-  ![corcho suelo](imagenes/corchosuelo.jpg)
+1. Madera: reciclada para los pilares
+2. Soportes: reciclada para mantener los pilares
+3. Plastico de invernadero: 2 x 6 m 14,84 €
+4. Paquete de 1000 Tornillos tirafondo 5,0 X 16 mm para Madera 31,63 € (1 tornillos tiranfondo valor = 0,03)
+5.  Corcho para suelo del invernadero: 300mm x 300mm x 4 mm paquete de 9 = 22,79€
+
+![corcho suelo](imagenes/corchosuelo.jpg)
 
 ## Planificación del invernadero:
 
@@ -52,12 +53,11 @@ Aquí diseñé en 3D cómo quiero que sea la mesa del mapa y cómo me gustaría 
 
 ## Lista de materiales del mapa
 
-1. Madera:cual se usara reciclada del instituto
-2. soportes: también reciclada del instituto
-3. metacrilato: 17€ el folio A4 por tamaño
-4. plastico de invernadero: 4m x 12,5m 0,85€
-5. corcho para suelo del invernadero: 300mm x 300mm x 4 mm paquete de 9 = 22,79€
-6. Tornillos
+1. Madera:cual se usara reciclada del instituto para crear la base
+2. Soportes: también reciclada del instituto para sostener la madera
+3. Metacrilato: 17€ el folio A4 por tamaño
+4. Paquete de 1000 Tornillos tirafondo 5,0 X 16 mm para Madera 31,63 € (1 tornillos tiranfondo valor = 0,03)
+
 
 
 ## Planificación del mapa:
