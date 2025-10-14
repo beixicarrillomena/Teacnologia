@@ -27,7 +27,7 @@ Aqui el diseño 3D del invernadero:
 4. Paquete de 1000 Tornillos tirafondo 5,0 X 16 mm para Madera 31,63 € (1 tornillos tiranfondo valor = 0,03)
 5.  Corcho para suelo del invernadero: 300mm x 300mm x 4 mm paquete de 9 = 22,79€
 
-![corcho suelo](imagenes/corchosuelo.jpg)
+![corcho suelo](imagenes/corchosuelo.png)
 
 ## Planificación del invernadero:
 
@@ -61,7 +61,7 @@ Aquí diseñé en 3D cómo quiero que sea la mesa del mapa y cómo me gustaría 
 
 
 ## Planificación del mapa:
-![planificacion del mapa](PLANIFIACIONMAPA.jpg)
+![planificacion del mapa](PLANIFIACIONMAPA.png)
 
 
 "Este texto fue corregido por la aplicación ChatGPT"
