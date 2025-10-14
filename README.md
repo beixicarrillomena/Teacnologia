@@ -27,11 +27,11 @@ Aqui el diseño 3D del invernadero:
 4. Paquete de 1000 Tornillos tirafondo 5,0 X 16 mm para Madera 31,63 € (1 tornillos tiranfondo valor = 0,03)
 5.  Corcho para suelo del invernadero: 300mm x 300mm x 4 mm paquete de 9 = 22,79€
 
-![corcho suelo](imagenes/corchosuelo.png)
+![corcho suelo](imagenes/corchosuelo.jpg)
 
 ## Planificación del invernadero:
 
-![planificacion del invernadero](imagenes/planificacioninvernadero.jpg)
+![planificacion del invernadero](imagenes/planificacioninvernadero.png)
 
 # Mapa:
 El mapa es otro proyecto en el que recuperamos un mapa de Jaén para mostrarlo al público y exponer un trabajo del año anterior, construyendo su estructura y diseñando sus modelos:
@@ -61,7 +61,7 @@ Aquí diseñé en 3D cómo quiero que sea la mesa del mapa y cómo me gustaría 
 
 
 ## Planificación del mapa:
-![planificacion del mapa](PLANIFIACIONMAPA.png)
+![planificacion del mapa](PLANIFICACIONMAPA.png)
 
 
 "Este texto fue corregido por la aplicación ChatGPT"
