@@ -61,7 +61,8 @@ Aquí diseñé en 3D cómo quiero que sea la mesa del mapa y cómo me gustaría 
 
 
 ## Planificación del mapa:
-![planificacion del mapa](mapplanificado.png)
+
+![planificacion del mapa](imagenes/mapplanificado.png)
 
 
 "Este texto fue corregido por la aplicación ChatGPT"
