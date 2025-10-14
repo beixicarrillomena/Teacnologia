@@ -31,7 +31,7 @@ Aqui el diseño 3D del invernadero:
 
 ## Planificación del invernadero:
 
-Primero, revisar el invernadero para identificar qué materiales son reciclables; después, reunir la mano de obra y los materiales necesarios para reconstruirlo. Finalmente, cuando esté renovado, volver a usarlo con un fin académico.
+![planificacion del invernadero](imagenes/planificacioninvernadero.jpg)
 
 # Mapa:
 El mapa es otro proyecto en el que recuperamos un mapa de Jaén para mostrarlo al público y exponer un trabajo del año anterior, construyendo su estructura y diseñando sus modelos:
@@ -61,7 +61,7 @@ Aquí diseñé en 3D cómo quiero que sea la mesa del mapa y cómo me gustaría 
 
 
 ## Planificación del mapa:
-Actualmente, primero se deben reunir los materiales y la mano de obra, los cuales deben organizarse para construir la estructura donde estará el mapa. Luego, se comenzarán a juntar las piezas de la estructura, como cortar la madera para las patas y los apoyos, para después ensamblarlas con tornillos y asegurarse de la estabilidad de la estructura. Finalmente, se expondrá públicamente.
+![planificacion del mapa](PLANIFIACIONMAPA.jpg)
 
 
 "Este texto fue corregido por la aplicación ChatGPT"
