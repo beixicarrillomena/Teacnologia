@@ -1,4 +1,6 @@
 # Electrónica básica
 
-## resistencias fijas
-- Las resistencias fijas como nos índica su nombre no varian y se calacula con esta tabla para saber su valor
+## resistencias de valor fijo
+- La funcion de la resistencia es dificultar el paso de corriente consiguiendo variaciones de tensión en los puntos del circuito donde sean necesario.
+
+- Su simbolo electrónico es :
