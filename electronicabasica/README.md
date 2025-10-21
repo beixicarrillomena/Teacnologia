@@ -12,3 +12,7 @@
 - Lo usamos para que otros componentes del circuito no se dañene por el exceso de voltaje para ellos por la pila.
 
 - Se mide por el codigo de colores:
+  
+<img width="258" height="195" alt="image" src="https://github.com/user-attachments/assets/f9796f46-52f2-4a5f-9476-bd393dfbe77b" />
+
+-Asi se ve una resistencia de valor fijo:
