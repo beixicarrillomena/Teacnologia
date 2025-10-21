@@ -5,3 +5,4 @@
 
 - Su simbolo electrónico es :
 ! [simbolo de resistencia](imagenes/simbolo resistencia.png)
+![simbolo de resistencia](imagenes/simboloresisntencia.png)
