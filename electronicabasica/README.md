@@ -39,21 +39,42 @@
 
   <img width="258" height="195" alt="image" src="https://github.com/user-attachments/assets/b2de1902-c390-416f-b3c5-83a8ecbd0aa6" />
 
-  ## Condensadores
+ ## Condensadores
   
 - Un condensador es un dispositivo que acumula energia para cuando el circuito no tenga carga use esa carga que acumulo para que el circuito duro unos momentos aunque es casi excasa
 
 - Se usan como en las luces de un coche cuando nos fijamos que se apaga lentamente es gracia al condensador y asi se evitar cortar de un corte el circuito.
 
-- Dependiendo de su tamaño la energia que acumule durara más o menos y los mejores tiene hasta un liquido dentro que aumenta su eficiencia
+- Dependiendo de su tamaño la energia que acumule durara más o menos y los mejores tiene hasta un liquido dentro que aumenta su eficiencia y se pueden clasificar en no polarizados y polarizados.
 
-- Su simbolo electronico es:
+- Su simbolo electrónico es:
 
   <img width="293" height="172" alt="image" src="https://github.com/user-attachments/assets/15ac1765-deec-4090-ab69-0d9ddf52c6fb" />
 
 - Así se ve unos condensadores:
 
   <img width="255" height="160" alt="image" src="https://github.com/user-attachments/assets/7536ae57-1555-4ff8-802d-5ba1efdca1ab" />
+
+## Diodos
+
+- Los diodos hace que los electrones pasen po un sentido gracias al material semiconductor cual esta compuesto el comportamiento que provoca permite dirigir la corriente eléctrica protegiendo otros componentes en el circuito.
+
+- Su uso es cambiar la orentación de electrones a un sentido para proteger componentes como antes puse.
+
+- ..
+
+- Su simbolo electrónico es:
+
+  <img width="536" height="242" alt="image" src="https://github.com/user-attachments/assets/606e9e95-b981-41f9-957f-615cc3d94669" />
+
+- Así se ve un diodo:
+
+  <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/6720226c-e1a2-4279-9587-e9a7f6d915da" />
+
+
+## Diodos LEDS
+
+
 
 
 
