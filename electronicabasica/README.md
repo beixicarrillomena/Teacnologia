@@ -39,6 +39,10 @@
 
   <img width="258" height="195" alt="image" src="https://github.com/user-attachments/assets/b2de1902-c390-416f-b3c5-83a8ecbd0aa6" />
 
+  ## Condensadores
+  
+- Un condensador es un dispositivo que acumula energia para cuando el circuito no tenga carga use esa carga que acumulo para que el circuito duro unos momentos 
+
 
 
 
