@@ -41,7 +41,23 @@
 
   ## Condensadores
   
-- Un condensador es un dispositivo que acumula energia para cuando el circuito no tenga carga use esa carga que acumulo para que el circuito duro unos momentos 
+- Un condensador es un dispositivo que acumula energia para cuando el circuito no tenga carga use esa carga que acumulo para que el circuito duro unos momentos aunque es casi excasa
+
+- Se usan como en las luces de un coche cuando nos fijamos que se apaga lentamente es gracia al condensador y asi se evitar cortar de un corte el circuito.
+
+- Dependiendo de su tamaño la energia que acumule durara más o menos y los mejores tiene hasta un liquido dentro que aumenta su eficiencia
+
+- Su simbolo electronico es:
+
+  <img width="293" height="172" alt="image" src="https://github.com/user-attachments/assets/15ac1765-deec-4090-ab69-0d9ddf52c6fb" />
+
+- Así se ve unos condensadores:
+
+  <img width="255" height="160" alt="image" src="https://github.com/user-attachments/assets/7536ae57-1555-4ff8-802d-5ba1efdca1ab" />
+
+
+
+  
 
 
 
