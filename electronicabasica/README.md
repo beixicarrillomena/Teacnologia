@@ -4,10 +4,11 @@
 - La funcion de la resistencia es dificultar el paso de corriente consiguiendo variaciones de tensión en los puntos del circuito donde sean necesario.
 
 - Su simbolo electrónico es :
+
+- Una resistencia sirve para limitar la corriente eléctrica, proteger componentes electrónicos y dividir voltajes e.c.t.
   
   <img width="280" height="180" alt="image" src="https://github.com/user-attachments/assets/55d2d3cc-0e5b-4b40-9830-80e095467768" />
   
-- Una resistencia sirve para limitar la corriente eléctrica, proteger componentes electrónicos y dividir voltajes e.c.t.
 
 - Lo usamos para que otros componentes del circuito no se dañene por el exceso de voltaje para ellos por la pila.
 
@@ -23,8 +24,14 @@
 
 ## Resistencias de valor variable o potencióetros
 
--Las resistencias variables o potenciómetros dispone de tres contactos y tienen un valor total máximo entre sus extremos, el valor entre los extremos y el central puede variarse mediante el giro de una pieza
+-Las resistencias variables o potenciómetros dispone de tres contactos y tienen un valor total máximo entre sus extremos, el valor entre los extremos y el central puede variarse mediante el giro de una pieza.
 
-- Las resistencias de valor variable o potenciómetros 
+- Las resistencias de valor variable o potenciómetros los usamos como por ejemplo para cambiar el volumen de los altavoces, es resumén para que la intendidad de la resistencia varie depediendo a nuestro uso y como lo queramos.
+
+- la diferencia entre uno fijo es que podemos adaptarlo a nuestra comodidad o por su etorno algunas resistencias de valor variable puede cambiar a por luz, humedad e.t.c que cambie en su etorno.
+
+- Su simbolo electrónico es
+
+
 
 
