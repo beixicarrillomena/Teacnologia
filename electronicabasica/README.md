@@ -18,20 +18,28 @@
   
 <img width="258" height="195" alt="image" src="https://github.com/user-attachments/assets/f9796f46-52f2-4a5f-9476-bd393dfbe77b" />
 
--Asi se ve una resistencia de valor fijo:
+- Asi se ve una resistencia de valor fijo:
 
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/be496212-66b5-47d0-b509-55ecfb504b5f" />
 
 ## Resistencias de valor variable o potencióetros
 
--Las resistencias variables o potenciómetros dispone de tres contactos y tienen un valor total máximo entre sus extremos, el valor entre los extremos y el central puede variarse mediante el giro de una pieza.
+- Las resistencias variables o potenciómetros dispone de tres contactos y tienen un valor total máximo entre sus extremos, el valor entre los extremos y el central puede variarse mediante el giro de una pieza.
 
 - Las resistencias de valor variable o potenciómetros los usamos como por ejemplo para cambiar el volumen de los altavoces, es resumén para que la intendidad de la resistencia varie depediendo a nuestro uso y como lo queramos.
 
 - la diferencia entre uno fijo es que podemos adaptarlo a nuestra comodidad o por su etorno algunas resistencias de valor variable puede cambiar a por luz, humedad e.t.c que cambie en su etorno.
 
 - Su simbolo electrónico es:
+
+  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/91395001-dab5-4ace-9598-f5ba53fa2bdf" />
+
+- Así se ve una resistencia de valor variable o potenciómetro:
+
+  <img width="258" height="195" alt="image" src="https://github.com/user-attachments/assets/b2de1902-c390-416f-b3c5-83a8ecbd0aa6" />
+
+
 
 
 
