@@ -93,6 +93,10 @@
 <img width="235" height="214" alt="image" src="https://github.com/user-attachments/assets/67c0cc89-ea21-47fb-8173-57b491351bc0" />
 
 
+## CIRCUITOS:
+
+
+
   
 
 
