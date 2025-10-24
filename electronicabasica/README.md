@@ -74,8 +74,23 @@
 
 ## Diodos LEDS
 
+- Los diodos LED es un tipo especial de diodo que es capaz de emitir luz atravesando la corriente eléctrica debido a su bajo consumo u facíl fabricación se emplea.
+
+- Sirven para iluminar
+
+- Se miden con la tabla de tesión umbral:
+  
+<img width="250" height="202" alt="image" src="https://github.com/user-attachments/assets/7e625646-e72d-4629-8b67-7fb321eaf2c9" />
 
 
+- Su simbolo tecnologico es:
+
+<img width="308" height="164" alt="image" src="https://github.com/user-attachments/assets/be189998-c826-430c-9019-13a68884d047" />
+
+
+- Asi se ven un diodo LED:
+
+<img width="235" height="214" alt="image" src="https://github.com/user-attachments/assets/67c0cc89-ea21-47fb-8173-57b491351bc0" />
 
 
   
