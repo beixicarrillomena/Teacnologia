@@ -92,7 +92,21 @@
 
 <img width="235" height="214" alt="image" src="https://github.com/user-attachments/assets/67c0cc89-ea21-47fb-8173-57b491351bc0" />
 
-##Relés
+## Los transistores
+
+- ¿Para que sirve?:Los transistores es un elemento principal de los cricuitos electronicos cual posee tres patillas denominadas base, colector y emisor y funciona como un interruptor automático.
+
+- Funcinamiento interno: Funciona como un interruptor automático que se activa con una pequeña corriente en la base que permite la conexion con el colector y el emisor.
+
+- Símbolo eléctrico:
+  <img width="207" height="244" alt="image" src="https://github.com/user-attachments/assets/b7790adf-e0f7-439c-bc31-c64356ad5900" />
+  
+-Imagen real:
+
+<img width="1237" height="1237" alt="image" src="https://github.com/user-attachments/assets/cabde8fb-4fb5-474c-aad2-067db3877764" />
+
+
+## Relés
 
 - Los relés 
 
