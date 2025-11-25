@@ -102,7 +102,7 @@
   
   <img width="207" height="244" alt="image" src="https://github.com/user-attachments/assets/b7790adf-e0f7-439c-bc31-c64356ad5900" />
   
--Imagen real:
+- Imagen real:
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0725dc83-ad1c-4933-b852-ee05cc06e716" />
 
