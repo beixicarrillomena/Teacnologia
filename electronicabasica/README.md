@@ -96,7 +96,7 @@
 
 - ¿Para que sirve?:Los transistores es un elemento principal de los cricuitos electronicos cual posee tres patillas denominadas base, colector y emisor y funciona como un interruptor automático.
 
-- Funcinamiento interno: Funciona como un interruptor automático que se activa con una pequeña corriente en la base que permite la conexion con el colector y el emisor.
+- Funcionamiento interno: Funciona como un interruptor automático que se activa con una pequeña corriente en la base que permite la conexion con el colector y el emisor.
 
 - Símbolo eléctrico:
   
@@ -110,7 +110,17 @@
 
 ## Relés
 
-- Los relés 
+- ¿Para que sirve?: Los relés funcionan como un tipo de controlada por electricidad  cual pasa por una bobina.
+
+- Funcionamiento interno: Una bobina es un componente con dos terminales que alamecan la energía en un campo magnético cual atare armadura móvil y al moverse cambia de posición cerrando y abriendo.
+
+Simbolo eléctronico:
+
+  <img width="203" height="148" alt="image" src="https://github.com/user-attachments/assets/7839a4fc-bafd-45db-9e63-0b937c50e889" />
+
+imagen real:
+
+<img width="177" height="177" alt="image" src="https://github.com/user-attachments/assets/3cbfa020-7ebf-4744-8ceb-78f76c2f5017" />
 
 ## CIRCUITOS:
 
