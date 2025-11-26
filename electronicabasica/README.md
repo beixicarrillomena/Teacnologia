@@ -23,7 +23,7 @@
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/be496212-66b5-47d0-b509-55ecfb504b5f" />
 
-## Resistencias de valor variable o potencióetros
+## Resistencias de valor variable o potenciómetros
 
 - Las resistencias variables o potenciómetros dispone de tres contactos y tienen un valor total máximo entre sus extremos, el valor entre los extremos y el central puede variarse mediante el giro de una pieza.
 
