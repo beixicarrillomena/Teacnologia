@@ -129,7 +129,7 @@ imagen real:
   
 - 2  ![segundo circuito](imagenes/segundocircuito.jpg)
 
-- 3  ![tercer circuito](imagenes/tercercircuito.jpg)
+- 3  ![tercer circuito](imagenes/segundocircuito.jpg)
 
 
 
