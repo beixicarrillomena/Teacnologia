@@ -125,11 +125,11 @@ imagen real:
 ## CIRCUITOS:
 
 
-- 1  ![primercircuito](tecnologia/imagenes/primercircuito.jpg)
+- 1  ![primercircuito](Tecnologia/imagenes/primercircuito.jpg)
   
-- 2  ![segundocircuito](tecnologia/imagenes/segundocircuito.jpg)
+- 2  ![segundocircuito](Tecnologia/imagenes/segundocircuito.jpg)
 
-- 3  ![tercercircuito](tecnologia/imagenes/segundocircuito.jpg)
+- 3  ![tercercircuito](Tecnologia/imagenes/segundocircuito.jpg)
 
 
 
