@@ -126,10 +126,16 @@ imagen real:
 
 
 - 1  ![primer circuito](imagenes/primercircuito.jpg)
+
+-  Este circuito esta compuesto dos resistencias, un condensador, bateria de 4,5 V, un boton, un diodo LED y un transistor. El cricuito funciona dandole al boton para que el transistor permita el paso de corriente y el diodo LED se encienda y en condensador acumule energia para cuando se pare de pulsar el interuptor la energia dure por un periodo corto de tiempo. 
   
 - 2  ![segundo circuito](imagenes/segundocircuito.jpg)
 
+- Ahora este circuito tiene un trnasistor, un LDR, un diodo, un interuptor, dos resistencias, bateria de 6 V y un relé. Al dale al interuptor si el LDR tiene o le falta la luz suficiente el transistor manda al Relé y hace que es circuito funcione permitiendo el paso de energia y su funcionamiento.
+
 - 3  ![tercer circuito](imagenes/tercercircuito.jpg)
+
+- Y por ultimo este circuito tiene un pocentiometro, un LDR, un transistor, bateria de 6 V, una resistencia, un interuptor, un diodo, un motor, un relé y bateria de 9. El circuito al darle al interuptor si el LDR tiene o falta luz también si el pocetiometro tine una variante optima el transistor mandaran una señal al relé que hara el motor girar gracias a la pila de 9 V.
 
 
 
