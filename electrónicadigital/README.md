@@ -36,7 +36,7 @@
 
   ### Puerta lógica NAND
 
-  -Función: La salida es 0 cuando las dos entradas son 1 si solo hay 1 o ninguno es 1
+  - Función: La salida es 0 cuando las dos entradas son 1 si solo hay 1 o ninguno es 1
 
   <img width="289" height="175" alt="image" src="https://github.com/user-attachments/assets/3c308921-800f-49e0-bb0e-6cd5dadb7c8d" />
 
