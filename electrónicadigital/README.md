@@ -2,15 +2,13 @@
 
 ## Puertas Lógicas: son componentes capaces de hacer operaciones secinllas de cero y unos
 
-### Puerta Lógica NOT:
+#### Puerta Lógica NOT:
 
 - Función: La salida es inversa de la entrada asi que si entra 1 sale 0 y viceversa.
 
-  ### Simbolo 
-
 <img width="481" height="310" alt="image" src="https://github.com/user-attachments/assets/41c0e383-5dc7-4a61-a284-3bad91ec6269" />
 
-### Puerta Lógica AND
+#### Puerta Lógica AND
 
 - Función: La salida es 1 y cuando las dos entradas son 1 si no es 0
 
