@@ -53,14 +53,14 @@ La puerta lógica NAND aparte de los comunes pues solo debe de estar las dos ent
 
 ## Puerta lógica OR:
 
-La puerta lógica OR quitando sus comunes de lado una entrada y solo una de ellas o las dos debe de estar activada para que la salida de corriente
+La puerta lógica OR quitando sus comunes de lado una entrada y solo una de ellas o las dos debe de estar activada para que la salida de corriente.
 
 ## Puerta lógica XOR:
 La puerta lógica XOR sin tener en cuenta sus comunes solo y exclusivamente solo 1 de ellas debe de estar activada para que la salida tenga corriente.
 
 
 ## Puerta lógica NOR:
-La puerta lógica NOR sin recordar sus comunes tiene una disposicion inversa de entradas teniendolas al reves
+La puerta lógica NOR sin recordar sus comunes tiene una disposicion inversa de entradas teniendolas al reves y ninguna entrada debe de estar activada para que la salida de corriente.
   
 
 
