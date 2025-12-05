@@ -42,7 +42,16 @@
 
   <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/7aafa2b0-80ed-41ec-99fd-b160227cde8a" />
 
-  Puerta lógica NOT: La puerta lógica NOT tiene en común la puerta interna 1, 7 y 14 comunes con todos las otras puertas logicas la disposición interna en funcionamiento en pocas palabras su funcion es pares entradas inpares salidas.
+  ## Puerta lógica NOT:
+  La puerta lógica NOT tiene en común la puerta interna 1, 7 y 14 comunes con todos las otras puertas logicas la disposición interna en funcionamiento en pocas palabras su funcion es pares entradas inpares salidas.
+
+## Puerta lógica AND:
+La puerta lógica AND como los demas tienen en común 1,7,¡ y 14 y son dos de entrada y 1 de salida.
+
+## Puerta lógica NAND: 
+La puerta lógica NAND aparte de los comunes 
+
+  
 
 
 
