@@ -49,7 +49,11 @@
 La puerta lógica AND como los demas tienen en común 1,7,¡ y 14 y son dos de entrada y 1 de salida.
 
 ## Puerta lógica NAND: 
-La puerta lógica NAND aparte de los comunes 
+La puerta lógica NAND aparte de los comunes pues solo debe de estar las dos entradas activadas o desactivada para que la salida de corriente.
+
+## Puerta lógica OR:
+
+La puerta lógica OR quitando sus comunes de lado una entrada y solo una de ellas debe de estar activada para que la salida de corriente
 
   
 
