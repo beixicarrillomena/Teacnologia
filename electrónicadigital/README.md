@@ -42,6 +42,8 @@
 
   <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/7aafa2b0-80ed-41ec-99fd-b160227cde8a" />
 
+  Puerta lógica NOT: La puerta lógica NOT tiene en común la puerta interna 1, 7 y 14 comunes con todos las otras puertas logicas la dispoosición interna 
+
 
 
 
